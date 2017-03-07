@@ -1,0 +1,5 @@
+145, 5
+
+Inserire nella prima riga i valori desiderati, tenendo conto che ogni ciclo corrisponde a 3 secondi:
+Il primo valore indicherà la banda da non superare per un certo numero di cicli
+Il secondo valore indica il numero di cicli in cui l'host non dovrà superare la banda indicata dal primo valore
